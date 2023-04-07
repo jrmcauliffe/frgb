@@ -1,0 +1,6 @@
+[submodule "mcu"]
+	path = mcu
+	url = https://github.com/jrmcauliffe/forth-mcu.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/jrmcauliffe/forth-lib.git
